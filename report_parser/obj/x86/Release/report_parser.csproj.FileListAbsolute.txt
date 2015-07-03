@@ -1,7 +1,0 @@
-D:\Projects\ZSSalesQuota\QA_Docs\JMeterReports\Parser\report_parser\report_parser\bin\Release\report_parser.exe
-D:\Projects\ZSSalesQuota\QA_Docs\JMeterReports\Parser\report_parser\report_parser\bin\Release\report_parser.pdb
-D:\Projects\ZSSalesQuota\QA_Docs\JMeterReports\Parser\report_parser\report_parser\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Projects\ZSSalesQuota\QA_Docs\JMeterReports\Parser\report_parser\report_parser\obj\x86\Release\report_parser.exe
-D:\Projects\ZSSalesQuota\QA_Docs\JMeterReports\Parser\report_parser\report_parser\obj\x86\Release\report_parser.pdb
-D:\QA\JMeter\JMeterParser\report_parser\report_parser\obj\x86\Release\report_parser.exe
-D:\QA\JMeter\JMeterParser\report_parser\report_parser\obj\x86\Release\report_parser.pdb
